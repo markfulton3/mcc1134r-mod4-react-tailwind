@@ -1,6 +1,6 @@
 # Module 4 InClass
 
-1. Review https://material-ui.com
+1. Review https://tailwindcss.com
 1. Review videos
 1. Review Installation instructions using npm
 1. Review Components
